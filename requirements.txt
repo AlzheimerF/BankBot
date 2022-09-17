@@ -1,0 +1,5 @@
+requests
+schedule
+pyTelegramBotAPI
+bs4
+pytz
